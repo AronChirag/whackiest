@@ -1,0 +1,3 @@
+-- Demo account credentials are generated with the application's bcrypt
+-- dependency, so use the idempotent seed script instead of raw SQL:
+-- npm run seed:demo --prefix backend
